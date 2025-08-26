@@ -1,12 +1,14 @@
-
+<!-- 
 ![takecy's github stats](https://github-readme-stats.vercel.app/api?username=takecy&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takecy&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takecy&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takecy&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takecy&theme=onedark)](https://github.com/takecy/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takecy&theme=dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takecy&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takecy&theme=dark)
 
 <img src="https://skillicons.dev/icons?i=golang,java,cs,ts,js,python,ruby,terraform" />
 
